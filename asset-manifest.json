@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactKBCApp/static/css/main.62730627.chunk.css",
+    "main.js": "/ReactKBCApp/static/js/main.6875e0e0.chunk.js",
+    "main.js.map": "/ReactKBCApp/static/js/main.6875e0e0.chunk.js.map",
+    "runtime-main.js": "/ReactKBCApp/static/js/runtime-main.d8198f2c.js",
+    "runtime-main.js.map": "/ReactKBCApp/static/js/runtime-main.d8198f2c.js.map",
+    "static/js/2.fd7f9997.chunk.js": "/ReactKBCApp/static/js/2.fd7f9997.chunk.js",
+    "static/js/2.fd7f9997.chunk.js.map": "/ReactKBCApp/static/js/2.fd7f9997.chunk.js.map",
+    "index.html": "/ReactKBCApp/index.html",
+    "static/css/main.62730627.chunk.css.map": "/ReactKBCApp/static/css/main.62730627.chunk.css.map",
+    "static/js/2.fd7f9997.chunk.js.LICENSE.txt": "/ReactKBCApp/static/js/2.fd7f9997.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8198f2c.js",
+    "static/js/2.fd7f9997.chunk.js",
+    "static/css/main.62730627.chunk.css",
+    "static/js/main.6875e0e0.chunk.js"
+  ]
+}
